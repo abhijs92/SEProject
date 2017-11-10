@@ -1,2 +1,3 @@
-# SEProject
-HackerEarth
+# SE-Project
+
+Recommend challenges for coding websites.
